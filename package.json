@@ -1,0 +1,23 @@
+{
+  "name": "@tyler.thayn/ui.loader",
+  "version": "0.1.0",
+  "description": "Dynamic ui asset loader",
+  "main": "ui.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerthayn/ui.loader.git"
+  },
+  "keywords": [
+    "ui",
+    "loader"
+  ],
+  "author": "Tyler Thayn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerthayn/ui.loader/issues"
+  },
+  "homepage": "https://github.com/tylerthayn/ui.loader#readme"
+}
