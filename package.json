@@ -1,6 +1,6 @@
 {
   "name": "@tyler.thayn/ui.loader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Dynamic ui asset loader",
   "main": "ui.loader.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/tylerthayn/ui.loader/issues"
   },
-  "homepage": "https://github.com/tylerthayn/ui.loader#readme"
+  "homepage": "https://github.com/tylerthayn/ui.loader#readme",
+  "dependencies": {
+    "@tyler.thayn/js.core": "^0.13.14",
+    "jquery": "^3.6.1"
+  }
 }
